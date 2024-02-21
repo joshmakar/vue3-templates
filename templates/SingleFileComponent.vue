@@ -1,3 +1,10 @@
+<template>
+<div>
+    Build something amazing!
+</div>
+</template>
+
+
 <script setup>
 ////////////////////////////////////////////////////////////////////////////////
 // Template Dependencies: Components | Directives
@@ -64,13 +71,6 @@
 //     return a + b;
 // };
 </script>
-
-
-<template>
-<div>
-    Build something amazing!
-</div>
-</template>
 
 
 <!--
